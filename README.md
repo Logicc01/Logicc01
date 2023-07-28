@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Logicc01
-- 👀 I’m interested in Js and Python
-- 🌱 I’m currently learning Js
-- 📫 Reach me @discord- 889503166972985355
+- Soon !
